@@ -2,7 +2,7 @@
   "name": "my-appp",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/sumitpatel2018/todolist-app",
+  "homepage": "https://github.com/sumitpatel2018/my-appp.git",
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.35",
     "@fortawesome/free-solid-svg-icons": "^5.15.3",
